@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73395a94-db22-4b3d-8fc5-9b4ca4db71be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2020-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accounting" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AOC20201/AOC1Solved.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AOC20201/AoC1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AOC20201/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AOC20201/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AOC20201/miniinput.txt" afterDir="false" />
+    <list default="true" id="73395a94-db22-4b3d-8fc5-9b4ca4db71be" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2020-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2020-1gammal.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/sixte/OneDrive/Documents/GitHub/AOC2020-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,21 +58,34 @@
   <component name="RunManager" selected="Kotlin.AOC1SolvedKt">
     <configuration name="AOC1SolvedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AOC20201.AOC1SolvedKt" />
-      <module name="AOC2020-1" />
+      <module name="AOC2020-1gammal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="AOC1bKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AOC20201.AOC1bKt" />
-      <module name="AOC2020-1" />
+      <module name="AOC2020-1gammal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="AoC1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AOC20201.AoC1Kt" />
-      <module name="AOC2020-1" />
+      <module name="AOC2020-1gammal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AOC2020-1gammal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AOC2020-1gammal" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,7 +107,15 @@
       <option name="presentableId" value="Default" />
       <updated>1676973665023</updated>
       <workItem from="1676973666319" duration="7891000" />
+      <workItem from="1676985443319" duration="6024000" />
     </task>
+    <task id="LOCAL−00001" summary="Commit">
+      <created>1676985487380</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1676985487380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
